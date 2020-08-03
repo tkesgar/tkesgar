@@ -7,12 +7,3 @@ I am an ITB graduate with a bachelor's degree in Informatics Engineering. Curren
 I am available on [Twitter](https://twitter.com/tkesgar) interacting with fellow web developers, and I occassionally write on [my blog](https://blog.tkesgar.com). I enjoy football and Japanese anime/manga.
 
 While I usually busy work on my things most of the time, I am happy to help fellow developers. Feel free to contact me if you spot me somewhere.
-
----
-
-<p align="center">
-  Waifu of the month: <b>Cheshire</b>
-  <br>
-  <br>
-  <a href="https://twitter.com/b9gSERshfcZfPyg/status/1280812495427366912"><img src="https://pbs.twimg.com/media/EcZcJpYU8AAWYMB?format=jpg" alt="Cheshire by @b9gSERshfcZfPyg"></a>
-</p>
