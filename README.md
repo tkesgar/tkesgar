@@ -18,7 +18,7 @@ All packages are available on npm.
 - [@tkesgar/shuba](https://github.com/tkesgar/shuba) - Express JSON middleware helper library
 - [@tkesgar/lamy](https://github.com/tkesgar/lamy) - Lightweight row interface for Knex.js
 - [acall](https://github.com/tkesgar/acall) - Utility to handle asynchronous errors
-- Packages for [sharo](https://github.com/tkesgar/sharo) Personal Next.js repository template
+- Packages for [sharo](https://github.com/tkesgar/sharo) (Personal Next.js repository template)
   - [@tkesgar/sharo-next](https://github.com/tkesgar/sharo-next) - Next.js configuration plugin for sharo boilerplate
   - [@tkesgar/sharo-babel](https://github.com/tkesgar/sharo-babel) - Babel configuration for sharo boilerplate
   - [stylelint-config-sharo](https://github.com/tkesgar/stylelint-config-sharo) - stylelint shareable configuration for sharo boilerplate
