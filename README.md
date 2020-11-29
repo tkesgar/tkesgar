@@ -27,5 +27,4 @@ All packages are available on npm.
 ## Sites I currently maintain
 
 - [tkesgar.com](https://tkesgar.com) - My personal website (https://github.com/tkesgar/essex)
-- [Weeb Developer](https://blog.tkesgar.com) - My personal blog (https://github.com/tkesgar/watson)
 - [javelin](https://javelin.tkesgar.com) - App to arrange notes in columns, mainly used for sprint retrospective (https://github.com/tkesgar/javelin)
