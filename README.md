@@ -18,6 +18,7 @@ All packages are available on npm.
 - [@tkesgar/shuba](https://github.com/tkesgar/shuba) - Express JSON middleware helper library
 - [@tkesgar/lamy](https://github.com/tkesgar/lamy) - Lightweight row interface for Knex.js
 - [@tkesgar/reine](https://github.com/tkesgar/reine) - Stale-while-revalidate caching utility library
+- [@tkesgar/amber](https://github.com/tkesgar/amber) - Manually resolved promise utility library
 - [acall](https://github.com/tkesgar/acall) - Utility to handle asynchronous errors
 - Packages for [sharo](https://github.com/tkesgar/sharo) (Personal Next.js repository template)
   - [@tkesgar/sharo-next](https://github.com/tkesgar/sharo-next) - Next.js configuration plugin for sharo boilerplate
