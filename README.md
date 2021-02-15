@@ -2,13 +2,13 @@
 
 My name is Ted Kesgar.
 
-I am an ITB graduate with a bachelor's degree in Informatics Engineering. Currently I work at [@bukalapak](https://github.com/bukalapak) and live in Jakarta. During my spare time, I work on various personal projects. To make working on things easier, I often create public packages that I and everyone else can inspect and use. I mainly use Node.js and JavaScript/TypeScript nowadays.
+I am an ITB graduate with a bachelor's degree in Informatics Engineering. Currently I work at [@bukalapak](https://github.com/bukalapak) and live in Jakarta.
 
-Aside of programming, I enjoy Japanese pop culture, playing video games, and watch football (mostly English football). I used to draw, but recently I am just too busy working on things.
+During my spare time, I work on various personal projects. To make working on things easier, I often create public packages that I and everyone else can inspect and use. I mainly use Node.js and JavaScript/TypeScript nowadays. Aside of programming, I enjoy Japanese pop culture, playing video games, and watch football (mostly English football).
 
-While I am usually busy working on day job and personal projects most of the time, I am happy to help fellow developers. I am available on [Twitter](https://twitter.com/tkesgar) interacting with fellow web developers. I also lurk on several communities at Telegram or Discord; feel free to say hi if you spot me.
+I am happy to help fellow developers if I can; I am available on [Twitter](https://twitter.com/tkesgar). I also lurk on several communities at Telegram or Discord; feel free to say hi.
 
-## Packages I currently maintain
+## Packages
 
 All packages are available on npm.
 
@@ -21,12 +21,9 @@ All packages are available on npm.
 - [@tkesgar/amber](https://github.com/tkesgar/amber) - Manually resolved promise utility library
 - [acall](https://github.com/tkesgar/acall) - Utility to handle asynchronous errors
 - Packages for [sharo](https://github.com/tkesgar/sharo) (Personal Next.js repository template)
-  - [@tkesgar/sharo-next](https://github.com/tkesgar/sharo-next) - Next.js configuration plugin for sharo boilerplate
-  - [@tkesgar/sharo-babel](https://github.com/tkesgar/sharo-babel) - Babel configuration for sharo boilerplate
-  - [stylelint-config-sharo](https://github.com/tkesgar/stylelint-config-sharo) - stylelint shareable configuration for sharo boilerplate
-  - [eslint-config-sharo-scripts](https://github.com/tkesgar/eslint-config-sharo-scripts) - ESLint shareable configuration for sharo boilerplate
-  
-## Sites I currently maintain
+  - All packages are stored in [sharo-packages](https://github.com/tkesgar/sharo-packages) monorepo
 
-- [tkesgar.com](https://tkesgar.com) - My personal website (https://github.com/tkesgar/essex)
-- [javelin](https://javelin.tkesgar.com) - App to arrange notes in columns, mainly used for sprint retrospective (https://github.com/tkesgar/javelin)
+## Sites
+
+- [Personal blog](https://blog.tkesgar.space) - My personal website ([essex](https://github.com/tkesgar/essex))
+- [javelin](https://javelin.tkesgar.com) - App to arrange notes in columns, mainly used for sprint retrospective ([javelin](https://github.com/tkesgar/javelin))
