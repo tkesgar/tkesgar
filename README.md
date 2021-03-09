@@ -33,4 +33,4 @@ All packages are available on npm.
 ## Sites
 
 - [Personal blog](https://blog.tkesgar.space) - My personal website ([essex](https://github.com/tkesgar/essex))
-- [javelin](https://javelin.tkesgar.com) - App to arrange notes in columns, mainly used for sprint retrospective ([javelin](https://github.com/tkesgar/javelin))
+- [javelin](https://javelin.vercel.app) - App to arrange notes in columns, mainly used for sprint retrospective ([javelin](https://github.com/tkesgar/javelin))
