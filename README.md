@@ -12,13 +12,13 @@ I am happy to help fellow developers if I can; I am available on [Twitter](https
 
 All packages are available on npm.
 
-- [@tkesgar/haru](https://github.com/tkesgar/haru) - Library to help with password hashing
+- [@tkesgar/amber](https://github.com/tkesgar/packages/tree/main/packages/amber) - Manually resolved promise utility library
+- [@tkesgar/haru](https://github.com/tkesgar/packages/tree/main/packages/haru) - Library to help with password hashing
 - [@tkesgar/reno](https://github.com/tkesgar/reno) - Environment variables utility
 - [@tkesgar/ariadoa](https://github.com/tkesgar/ariadoa) - Simulate request to express middlewares for testing
 - [@tkesgar/shuba](https://github.com/tkesgar/shuba) - Express JSON middleware helper library
 - [@tkesgar/lamy](https://github.com/tkesgar/lamy) - Lightweight row interface for Knex.js
 - [@tkesgar/reine](https://github.com/tkesgar/reine) - Stale-while-revalidate caching utility library
-- [@tkesgar/amber](https://github.com/tkesgar/amber) - Manually resolved promise utility library
 - [acall](https://github.com/tkesgar/acall) - Utility to handle asynchronous errors
 - Packages for sharo boilerplate
   - [@tkesgar/sharo-next](https://github.com/tkesgar/sharo-packages/tree/lapin/packages/sharo-next)
