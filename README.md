@@ -19,15 +19,6 @@ All packages are available on npm.
 - [@tkesgar/shuba](https://github.com/tkesgar/shuba) - Express JSON middleware helper library
 - [@tkesgar/reine](https://github.com/tkesgar/reine) - Stale-while-revalidate caching utility library
 - [acall](https://github.com/tkesgar/acall) - Utility to handle asynchronous errors
-- Packages for sharo boilerplate
-  - [@tkesgar/sharo-next](https://github.com/tkesgar/sharo-packages/tree/lapin/packages/sharo-next)
-  - [@tkesgar/sharo-babel](https://github.com/tkesgar/sharo-packages/tree/lapin/packages/sharo-babel)
-  - [eslint-config-sharo-scripts](https://github.com/tkesgar/sharo-packages/tree/lapin/packages/eslint-config-sharo-scripts)
-  - [stylelint-config-sharo](https://github.com/tkesgar/sharo-packages/tree/lapin/packages/stylelint-config-sharo)
-
-## Templates
-
-- [sharo](https://github.com/tkesgar/sharo) (Personal Next.js repository template)
 
 ## Sites
 
